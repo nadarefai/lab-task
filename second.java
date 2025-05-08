@@ -1,7 +1,7 @@
-public class third {
+public class second {
     private String message;
     
-    public third() {
+    public second() {
         this.message = "Third class constructor called";
         System.out.println(message);
     }
